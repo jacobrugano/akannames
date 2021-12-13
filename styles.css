@@ -1,0 +1,14 @@
+h1{
+  font-size: 25px;
+}
+h2{
+  font-size:25px;
+}
+
+.overlay{
+  background-color: rgb(142, 58, 41);
+  margin-left: 20%;
+  margin-right: 20%;
+  opacity: 1.0;
+  border-radius: 15px;
+}
